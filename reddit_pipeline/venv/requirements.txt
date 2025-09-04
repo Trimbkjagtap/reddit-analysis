@@ -1,0 +1,7 @@
+praw
+pandas
+nltk
+vaderSentiment
+pymongo
+python-dotenv
+schedule
